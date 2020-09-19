@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T19:35:03.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.7.3" etag="vLjqEl9REWpdV5zrZUkw" type="github"><diagram id="ab5AdYNh_owxFEw9k-p5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-19T20:09:02.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="BeEKu9q_04IKwuaxXPWb" version="13.7.3" type="github">
+  <diagram id="ab5AdYNh_owxFEw9k-p5" name="Page-1">
+    <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-2" target="AF-5ULbWCSurPXiCpNcE-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-2" target="AF-5ULbWCSurPXiCpNcE-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="190" />
+              <mxPoint x="360" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-2" value="&lt;b&gt;User&lt;/b&gt;&lt;br&gt;&lt;u&gt;email&lt;/u&gt;&lt;br&gt;user name" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-3" value="&lt;b&gt;Language&lt;/b&gt;&lt;br&gt;&lt;u&gt;id&lt;/u&gt;&lt;br&gt;description" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-4" target="AF-5ULbWCSurPXiCpNcE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-6" value="has a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AF-5ULbWCSurPXiCpNcE-5">
+          <mxGeometry x="-0.008" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-4" value="&lt;b&gt;Corpus&lt;/b&gt;&lt;br&gt;&lt;u&gt;id&lt;/u&gt;&lt;br&gt;name&lt;br&gt;language" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="235" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-9" target="AF-5ULbWCSurPXiCpNcE-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="410" />
+              <mxPoint x="540" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-9" target="AF-5ULbWCSurPXiCpNcE-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-9" value="&lt;b&gt;Word&lt;/b&gt;&lt;br&gt;&lt;u&gt;word&lt;/u&gt;&lt;br&gt;&lt;u&gt;language&lt;/u&gt;&lt;br&gt;part of speech&lt;br&gt;declension&lt;br&gt;roots&lt;br&gt;prefixes&lt;br&gt;suffixes" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-10" target="AF-5ULbWCSurPXiCpNcE-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="420" />
+              <mxPoint x="220" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-10" value="&lt;b&gt;Meaning&lt;/b&gt;&lt;br&gt;&lt;u&gt;word&lt;br&gt;meaning&lt;/u&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-11" target="AF-5ULbWCSurPXiCpNcE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-11" value="&lt;b&gt;Spelling?&lt;/b&gt;&lt;br&gt;&lt;u&gt;word&lt;/u&gt;&lt;br&gt;&lt;u&gt;spelling&lt;/u&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-13" value="NB: Verbs&#39; declension is &lt;br&gt;their conjugation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="465" y="530" />
+              <mxPoint x="465" y="440" />
+              <mxPoint x="420" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-14" target="AF-5ULbWCSurPXiCpNcE-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-14" value="&lt;b&gt;Declined Word&lt;/b&gt;&lt;br&gt;&lt;u&gt;word&lt;/u&gt;&lt;br&gt;&lt;u&gt;form&lt;/u&gt;&lt;br&gt;spelling" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-30" target="AF-5ULbWCSurPXiCpNcE-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="320" />
+              <mxPoint x="370" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-30" value="Known &lt;br&gt;Words&lt;br&gt;&lt;u&gt;user&lt;/u&gt;&lt;br&gt;&lt;u&gt;word&lt;/u&gt;&lt;br&gt;familiarity&lt;br&gt;staleness" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-33" target="AF-5ULbWCSurPXiCpNcE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-33" value="&lt;b&gt;Proficiency&lt;/b&gt;&lt;br&gt;&lt;u&gt;user&lt;br&gt;language&lt;/u&gt;&lt;br&gt;level" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="75" width="105" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-36" value="&lt;b&gt;Form&lt;/b&gt;&lt;br&gt;&lt;u&gt;form&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="500" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF-5ULbWCSurPXiCpNcE-38" target="AF-5ULbWCSurPXiCpNcE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-38" value="&lt;b&gt;Root&lt;/b&gt;&lt;br&gt;&lt;u&gt;root&lt;br&gt;&lt;/u&gt;&lt;u&gt;language&lt;/u&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AF-5ULbWCSurPXiCpNcE-39" value="E.g. past tense, &lt;br&gt;plural third person" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="670" y="470" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
